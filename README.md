@@ -14,7 +14,7 @@ Above shows what the user will see on a new Surfle game. The very top is the hea
 
 https://github.com/ShayneEvans/surfle-showcase/assets/70344759/c610f063-f751-4df8-a6ae-994be6c81e76
 
-The above video showcases the autocomplete feature in the input box.
+The above video showcases the autocomplete feature in the input box and what happens when the user clicks the 'Submit' button. Once the submit button is pressed if the guess is wrong the next hint will be shown (this can be seen above the input box when the 2 becomes highlighted going from hint image 1 to 2) as well as the incorrect guess below the input box. If the user enters the correct surf map the following image will be shown:
 
 <p align="center">
   <img src="https://github.com/ShayneEvans/surfle-showcase/blob/main/screenshots/end-game.png?raw=true" alt="Surfle End Game"/>
@@ -40,3 +40,25 @@ The above image shows the statistics page for Surfle game #1 which includes a do
 </p>
 
 The individual player statistics can be viewed by clicking on the 'Stats' button on the header. These stats show the number of games played, number of games won, win percentage, current winning streak, maximum winning streak, and a bar chart that displays the win distribution for each game. These stats are stored and obtained utilizing local storage in the browser.
+
+
+## Technologies Used
+
+### Backend
+- **Python**: Version 3.11
+- **Django**: A Python web framework. [Learn more](https://www.djangoproject.com/)
+- **DateTime**: Used for handling date and time operations.
+- **psycopg2**: A PostgreSQL adapter for Python.
+- **PostgreSQL**: A powerful open-source relational database system.
+- **Digital Ocean Droplet**: A cloud hosting solution for hosting the PostgreSQL database.
+
+### Deployment
+- **Nginx**: A web server used for serving web content.
+- **Gunicorn**: A Python Web Server Gateway Interface (WSGI) HTTP server for deploying Django applications.
+
+### Frontend
+- **HTML, CSS, JavaScript**: Frontend technologies for building the user interface.
+- **Local Storage**: Used for storing data on the client-side.
+
+### Hosting
+- **Digital Ocean Droplet**: Hosting the PostgreSQL database and the website.
