@@ -1,4 +1,4 @@
-# Surfle Showcase
+# [Surfle](https://surfle.xyz) Showcase
 Showcasing my first website: https://surfle.xyz
 
 Surfle was created as derivative of [guessthe.game](guessthe.game) and [framed.wtf](framed.wtf) but specializing in the game mode Counter-Strike surf. There have been over 1,000 unique surf maps created over the 20+ year history of Counter-Strike surf and I have compiled their information in a database where one will be picked daily at random where users can attempt to guess it. This was a passion project for me because the surf game mode has brought me many great friendships and memories over the years, so getting to make something that surfers can play was pretty neat! Surfle utilizes browser local storage to save information such as the game state and player statistics. I will show the important parts of the site now
