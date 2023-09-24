@@ -8,7 +8,13 @@ Surfle was created as derivative of [guessthe.game](guessthe.game) and [framed.w
   <img src="https://github.com/ShayneEvans/surfle-showcase/blob/main/screenshots/surfle-game.PNG?raw=true" alt="Surfle Game"/>
 </p>
 
+
+
 Above shows what the user will see on a new Surfle game. The very top is the header which appears on all pages of the website which allows the user to go to previous days, gives instructions on how to play, individual stats, or more info about the website. Below the surfle game number is listed, in this screenshot it is the first day so it says 'Surfle Game #1'. Below this is the first hint image that the user must utilize to guess the surf map. The user can type what map they think it is in the search box and it will autofill some results based on what they typed in. if they guess wrong after hitting submit the 2nd hint image will be shown and so on until the final 6th image. At the bottom is a timer until the next Surfle game will be posted on the website, the arrow button to the right will let the user play the next day.
+
+https://github.com/ShayneEvans/surfle-showcase/assets/70344759/c610f063-f751-4df8-a6ae-994be6c81e76
+
+The above video showcases the autocomplete feature in the input box.
 
 <p align="center">
   <img src="https://github.com/ShayneEvans/surfle-showcase/blob/main/screenshots/end-game.png?raw=true" alt="Surfle End Game"/>
