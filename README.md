@@ -46,7 +46,7 @@ The individual player statistics can be viewed by clicking on the 'Stats' button
 
 ### Backend
 - **Python**: Version 3.11
-- **Django**: A Python web framework. [Learn more](https://www.djangoproject.com/)
+- **Django**: A Python web framework.
 - **DateTime**: Used for handling date and time operations.
 - **psycopg2**: A PostgreSQL adapter for Python.
 - **PostgreSQL**: A powerful open-source relational database system.
