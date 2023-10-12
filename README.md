@@ -49,8 +49,8 @@ The individual player statistics can be viewed by clicking on the 'Stats' button
 - **Django**: A Python web framework.
 - **DateTime**: Used for handling date and time operations.
 - **psycopg2**: A PostgreSQL adapter for Python.
-- **PostgreSQL**: A powerful open-source relational database system.
-- **Digital Ocean Droplet**: A cloud hosting solution for hosting the PostgreSQL database.
+- **PostgreSQL**: A powerful open-source relational database system used to store daily statistics.
+- **Digital Ocean Droplet**: A cloud hosting solution for hosting the PostgreSQL database and website code.
 
 ### Deployment
 - **Nginx**: A web server used for serving web content.
